@@ -8,6 +8,13 @@
       "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_forge/main/manifest.json"
     },
     {
+      "kind": "subtitles",
+      "name": "Subtitles",
+      "tagline": "Subtitles for movies and shows",
+      "description": "OpenSubtitles, SubDL and SubSource, matched to the version you play (file hash, release name).",
+      "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_subtitles/main/manifest.json"
+    },
+    {
       "kind": "videos",
       "name": "Conduit",
       "tagline": "YouTube videos, music and trailers",
