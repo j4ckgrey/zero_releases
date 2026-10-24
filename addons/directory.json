@@ -1,0 +1,32 @@
+{
+  "addons": [
+    {
+      "kind": "forge",
+      "name": "Forge",
+      "tagline": "Streams for movies and shows",
+      "description": "Indexers (Torrentio, Zilean, Torznab/Newznab, Comet, EasyNews, TorBox search) and debrid / usenet playback. Also offers debrid to other add-ons.",
+      "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_forge/main/manifest.json"
+    },
+    {
+      "kind": "videos",
+      "name": "Conduit",
+      "tagline": "YouTube videos, music and trailers",
+      "description": "Music and Videos spaces, YouTube trailers and the Rotten Tomatoes trailer rows, through yt-dlp.",
+      "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_videos/main/manifest.json"
+    },
+    {
+      "kind": "books",
+      "name": "Codex",
+      "tagline": "Books and audiobooks",
+      "description": "Book metadata (Hardcover, Open Library, Google Books) and free sources (Gutenberg, Internet Archive, LibriVox).",
+      "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_codex/main/manifest.json"
+    },
+    {
+      "kind": "adult",
+      "name": "Vault",
+      "tagline": "A locked space of its own",
+      "description": "Its own catalog and search with ThePornDB metadata, behind a password, played through debrid.",
+      "manifestUrl": "https://raw.githubusercontent.com/j4ckgrey/zero_vault/main/manifest.json"
+    }
+  ]
+}
