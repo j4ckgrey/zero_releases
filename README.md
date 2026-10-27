@@ -9,14 +9,12 @@ One rolling release holds every app. Each publish replaces that app's files in p
 | Asset | App | Package | Runs on |
 |---|---|---|---|
 | `catalog.json` | the catalog: version, versionCode, size, SHA-256 and signing key of every APK below | | |
-| `zero-media-phone.apk` | Zero Media | com.j4ckgrey.zero.media | phone, tablet, TV (64-bit), glasses |
-| `zero-media-tv.apk` | Zero Media (32-bit TV build) | com.j4ckgrey.zero.media | Fire TV / Android TV (32-bit) |
+| `zero-media-phone.apk` | Zero Media | com.j4ckgrey.zero.media | phone, tablet, TV (32- and 64-bit), glasses |
 | `zero-media-quest.apk` | Zero Media (Quest) | com.j4ckgrey.zero.media | Meta Quest |
 | `zero-pilot.apk` | Zero Pilot | com.j4ckgrey.pilot | phone |
 | `zero-dash.apk` | Zero Dash | com.j4ckgrey.zerodash | phone |
 | `zero-dash-car.apk` | Zero Dash Car | com.j4ckgrey.zerodash.car | car head unit |
 | `zero-store.apk` | Zero Store | com.j4ckgrey.zero.store | phone, TV |
-| `zero-tv-installer.apk` | Zero TV Installer | com.j4ckgrey.zero.tvinstall | phone |
 
 ## `addons/directory.json`
 
